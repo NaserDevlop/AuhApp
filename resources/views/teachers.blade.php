@@ -27,7 +27,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Alice Newman</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-1.png" alt="image">
 						</div>
@@ -36,7 +36,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Phillip Kelly</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-2.png" alt="image">
 						</div>
@@ -45,7 +45,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Jose Valdez</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-3.png" alt="image">
 						</div>
@@ -54,7 +54,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Jack Burton</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-4.png" alt="image">
 						</div>
@@ -63,7 +63,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Gary Wagner</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-5.png" alt="image">
 						</div>
@@ -72,7 +72,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Olivia Larson</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-6.png" alt="image">
 						</div>
@@ -81,7 +81,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Elizabeth Bishop</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-7.png" alt="image">
 						</div>
@@ -90,7 +90,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Raymond Turner</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-8.png" alt="image">
 						</div>
@@ -99,7 +99,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Alice Newman</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-1.png" alt="image">
 						</div>
@@ -108,7 +108,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Phillip Kelly</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-2.png" alt="image">
 						</div>
@@ -117,7 +117,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Jose Valdez</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-3.png" alt="image">
 						</div>
@@ -126,7 +126,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Jack Burton</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-4.png" alt="image">
 						</div>
@@ -135,7 +135,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Gary Wagner</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-5.png" alt="image">
 						</div>
@@ -144,7 +144,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Olivia Larson</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-6.png" alt="image">
 						</div>
@@ -153,7 +153,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Elizabeth Bishop</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-7.png" alt="image">
 						</div>
@@ -162,7 +162,7 @@
 						<div class="teachers-item">
 							<div class="teachers-item-info">
 								<h3>Raymond Turner</h3>
-								<a href="teachers-single.html" class="hvr-push">View Profile</a>
+								<a href=" /teachers-single" class="hvr-push">View Profile</a>
 							</div>
 							<img src="images/teachers-item-8.png" alt="image">
 						</div>

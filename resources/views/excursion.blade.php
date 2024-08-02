@@ -30,7 +30,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Trip to Kebun Teh Karanganyar, Indonesia</a>
+											<a href="/events-single">Trip to Kebun Teh Karanganyar, Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -59,7 +59,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Merbabu Expedi- tion, Magelang Indonesia</a>
+											<a href="/events-single">Merbabu Expedi- tion, Magelang Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -88,7 +88,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Giant National Capital Barbecue</a>
+											<a href="/events-single">Giant National Capital Barbecue</a>
 										</h3>
 									</div>
 								</div>
@@ -117,7 +117,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Lorem ipsum dol sit amet consect adipiscing</a>
+											<a href="/events-single">Lorem ipsum dol sit amet consect adipiscing</a>
 										</h3>
 									</div>
 								</div>
@@ -146,7 +146,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Trip to Kebun Teh Karanganyar, Indonesia</a>
+											<a href="/events-single">Trip to Kebun Teh Karanganyar, Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -175,7 +175,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Merbabu Expedi- tion, Magelang Indonesia</a>
+											<a href="/events-single">Merbabu Expedi- tion, Magelang Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -204,7 +204,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Giant National Capital Barbecue</a>
+											<a href="/events-single">Giant National Capital Barbecue</a>
 										</h3>
 									</div>
 								</div>
@@ -233,7 +233,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Lorem ipsum dol sit amet consect adipiscing</a>
+											<a href="/events-single">Lorem ipsum dol sit amet consect adipiscing</a>
 										</h3>
 									</div>
 								</div>
@@ -262,7 +262,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Trip to Kebun Teh Karanganyar, Indonesia</a>
+											<a href="/events-single">Trip to Kebun Teh Karanganyar, Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -291,7 +291,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Merbabu Expedi- tion, Magelang Indonesia</a>
+											<a href="/events-single">Merbabu Expedi- tion, Magelang Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -320,7 +320,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html" class="hvr-push">Giant National Capital Barbecue</a>
+											<a href="/events-single" class="hvr-push">Giant National Capital Barbecue</a>
 										</h3>
 									</div>
 								</div>
@@ -349,7 +349,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Lorem ipsum dol sit amet consect adipiscing</a>
+											<a href="/events-single">Lorem ipsum dol sit amet consect adipiscing</a>
 										</h3>
 									</div>
 								</div>
@@ -378,7 +378,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Trip to Kebun Teh Karanganyar, Indonesia</a>
+											<a href="/events-single">Trip to Kebun Teh Karanganyar, Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -407,7 +407,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Merbabu Expedi- tion, Magelang Indonesia</a>
+											<a href="/events-single">Merbabu Expedi- tion, Magelang Indonesia</a>
 										</h3>
 									</div>
 								</div>
@@ -436,7 +436,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Giant National Capital Barbecue</a>
+											<a href="/events-single">Giant National Capital Barbecue</a>
 										</h3>
 									</div>
 								</div>
@@ -465,7 +465,7 @@
 									</div>
 									<div class="col-xs-8">
 										<h3 class="excursion-title">
-											<a href="events-single.html">Lorem ipsum dol sit amet consect adipiscing</a>
+											<a href="/events-single">Lorem ipsum dol sit amet consect adipiscing</a>
 										</h3>
 									</div>
 								</div>

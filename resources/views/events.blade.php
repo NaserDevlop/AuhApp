@@ -49,12 +49,12 @@
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-1.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">AUH Library Research with Sarah Moya</a></h3>
+								<h3><a href="/events-single">AUH Library Research with Sarah Moya</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -68,19 +68,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-2.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Workshop Viola with Mrs. Angelina</a></h3>
+								<h3><a href="/events-single">Workshop Viola with Mrs. Angelina</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -94,19 +94,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-3.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Yoga Training with Mrs. Emily Foster</a></h3>
+								<h3><a href="/events-single">Yoga Training with Mrs. Emily Foster</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -120,19 +120,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-4.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Cheerleaders Auditions AUH with NFL</a></h3>
+								<h3><a href="/events-single">Cheerleaders Auditions AUH with NFL</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -146,19 +146,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-5.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Basketball Competition AUH vs Kuliah</a></h3>
+								<h3><a href="/events-single">Basketball Competition AUH vs Kuliah</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -172,19 +172,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-6.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Web Design Workshop with Simon Sinek</a></h3>
+								<h3><a href="/events-single">Web Design Workshop with Simon Sinek</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -198,19 +198,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-7.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Biologycal Research Harvard University</a></h3>
+								<h3><a href="/events-single">Biologycal Research Harvard University</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -224,19 +224,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-8.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">English Free Class Speaking and Reading</a></h3>
+								<h3><a href="/events-single">English Free Class Speaking and Reading</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -250,19 +250,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-1.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">AUH Library Research with Sarah Moya</a></h3>
+								<h3><a href="/events-single">AUH Library Research with Sarah Moya</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -276,19 +276,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-2.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Workshop Viola with Mrs. Angelina</a></h3>
+								<h3><a href="/events-single">Workshop Viola with Mrs. Angelina</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -302,19 +302,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-3.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Yoga Training with Mrs. Emily Foster</a></h3>
+								<h3><a href="/events-single">Yoga Training with Mrs. Emily Foster</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -328,19 +328,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-4.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Cheerleaders Auditions AUH with NFL</a></h3>
+								<h3><a href="/events-single">Cheerleaders Auditions AUH with NFL</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -354,19 +354,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-5.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Basketball Competition AUH vs Kuliah</a></h3>
+								<h3><a href="/events-single">Basketball Competition AUH vs Kuliah</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -380,19 +380,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-6.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Web Design Workshop with Simon Sinek</a></h3>
+								<h3><a href="/events-single">Web Design Workshop with Simon Sinek</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -406,19 +406,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-7.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">Biologycal Research Harvard University</a></h3>
+								<h3><a href="/events-single">Biologycal Research Harvard University</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -432,19 +432,19 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 col-lg-3">
 						<div class="events-item">
 							<div class="events-item-img">
-								<a href="events-single.html">
+								<a href="/events-single">
 									<img src="images/events-item-img-8.jpg" alt="image">
 								</a>
 							</div>
 							<div class="events-item-info">
-								<h3><a href="events-single.html">English Free Class Speaking and Reading</a></h3>
+								<h3><a href="/events-single">English Free Class Speaking and Reading</a></h3>
 								<ul class="event-meta">
 									<li>
 										<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -458,7 +458,7 @@
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy</p>
 							</div>
 							<div class="events-item-link">
-								<a href="events-single.html" class="hvr-push">Learn More</a>
+								<a href="/events-single" class="hvr-push">Learn More</a>
 							</div>
 						</div>
 					</div>

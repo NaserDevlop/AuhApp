@@ -192,7 +192,7 @@
 							<div class="news-item">
 								<div class="item-meta-data">
 									<div class="col-md-8">
-										<a href="news-single.html"><img src="images/latest-news-author-img.jpg" alt="image"></a>
+										<a href=" /news-single"><img src="images/latest-news-author-img.jpg" alt="image"></a>
 										<a href="#"><span>Admin AUH</span></a>
 									</div>
 									<div class="col-md-4">
@@ -200,14 +200,14 @@
 									</div>
 								</div>
 								<div class="item-image">
-									<a href="news-single.html">
+									<a href=" /news-single">
 										<img src="images/latest-news-img-8.jpg" alt="image">
 									</a>
 								</div>
 								<div class="item-info">
-									<h3><a href="news-single.html">Lorem ipsum dolor sit amet, consectetuer adipiscing</a></h3>
+									<h3><a href=" /news-single">Lorem ipsum dolor sit amet, consectetuer adipiscing</a></h3>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-									<a href="news-single.html">Read More</a>
+									<a href=" /news-single">Read More</a>
 								</div>
 							</div>
 						</div>
@@ -215,7 +215,7 @@
 							<div class="news-item">
 								<div class="item-meta-data">
 									<div class="col-md-8">
-										<a href="news-single.html"><img src="images/latest-news-author-img.jpg" alt="image"></a>
+										<a href=" /news-single"><img src="images/latest-news-author-img.jpg" alt="image"></a>
 										<a href="#"><span>Admin AUH</span></a>
 									</div>
 									<div class="col-md-4">
@@ -223,14 +223,14 @@
 									</div>
 								</div>
 								<div class="item-image">
-									<a href="news-single.html">
+									<a href=" /news-single">
 										<img src="images/latest-news-img-9.jpg" alt="image">
 									</a>
 								</div>
 								<div class="item-info">
-									<h3><a href="news-single.html">Lorem ipsum dolor sit amet, consectetuer</a></h3>
+									<h3><a href=" /news-single">Lorem ipsum dolor sit amet, consectetuer</a></h3>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-									<a href="news-single.html">Read More</a>
+									<a href=" /news-single">Read More</a>
 								</div>
 							</div>
 						</div>
@@ -238,7 +238,7 @@
 							<div class="news-item">
 								<div class="item-meta-data">
 									<div class="col-md-8">
-										<a href="news-single.html"><img src="images/latest-news-author-img.jpg" alt="image"></a>
+										<a href=" /news-single"><img src="images/latest-news-author-img.jpg" alt="image"></a>
 										<a href="#"><span>Admin AUH</span></a>
 									</div>
 									<div class="col-md-4">
@@ -246,14 +246,14 @@
 									</div>
 								</div>
 								<div class="item-image">
-									<a href="news-single.html">
+									<a href=" /news-single">
 										<img src="images/latest-news-img-10.jpg" alt="image">
 									</a>
 								</div>
 								<div class="item-info">
-									<h3><a href="news-single.html">Lorem ipsum dolor sit amet, consectetuer adipiscing</a></h3>
+									<h3><a href=" /news-single">Lorem ipsum dolor sit amet, consectetuer adipiscing</a></h3>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-									<a href="news-single.html">Read More</a>
+									<a href=" /news-single">Read More</a>
 								</div>
 							</div>
 						</div>
@@ -261,7 +261,7 @@
 							<div class="news-item">
 								<div class="item-meta-data">
 									<div class="col-md-8">
-										<a href="news-single.html"><img src="images/latest-news-author-img.jpg" alt="image"></a>
+										<a href=" /news-single"><img src="images/latest-news-author-img.jpg" alt="image"></a>
 										<a href="#"><span>Admin AUH</span></a>
 									</div>
 									<div class="col-md-4">
@@ -269,14 +269,14 @@
 									</div>
 								</div>
 								<div class="item-image">
-									<a href="news-single.html">
+									<a href=" /news-single">
 										<img src="images/latest-news-img-4.jpg" alt="image">
 									</a>
 								</div>
 								<div class="item-info">
-									<h3><a href="news-single.html">Lorem ipsum dolor sit amet, consectetuer</a></h3>
+									<h3><a href=" /news-single">Lorem ipsum dolor sit amet, consectetuer</a></h3>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-									<a href="news-single.html">Read More</a>
+									<a href=" /news-single">Read More</a>
 								</div>
 							</div>
 						</div>
@@ -301,5 +301,5 @@
 			</div>
 		</section>
 
-        
+
 @endsection

@@ -57,7 +57,7 @@
 							<h3><span>Grandmaster Talk</span> EDUCATION IS THE MOST POWERFUL WEAPON</h3>
 							<p>Our students are talented, hard-working and full of good ideas. We encourage and empower them to bring their ideas to life. Hands-on opportunities are what we're all about. Our students are busy doing things that matter. Take a look at the opportunities you'll have at the University. The task of the modern educator is not to cut down jungles, but to irrigate deserts.</p>
 							<img src="images/signature.png" alt="signature">
-							<strong class="author">Katherine Gonzalez <span>AUH Grandmaster</span></strong>
+							<strong class="author">Mohamed Dahshan <span>AUH Grandmaster</span></strong>
 						</div>
 					</div>
 
@@ -2348,4 +2348,3 @@
 
 @endsection
 
-		
